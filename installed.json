@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "amg432",
+      "name": "ARDSTM32L432",
       "maintainer": "IOT",
       "websiteUrl": "https://github.com/amg432/ARDSTM32L432",
       "Url": "https://github.com/amg432/ARDSTM32L432PACK/blob/main/package_STM32L432_boards_index.json",
@@ -14,9 +14,9 @@
           "deprecated": false,
           "category": "Contributed",
           "url": "https://github.com/amg432/ARDSTM32L432/archive/0.0.1.tar.gz",
-          "archiveFileName": "ARDSTM32L432-0.0.28.tar.gz",
-          "checksum": "MD5:59f6a961303507b089b78ababd7fdada",
-          "size": "16560145",
+          "archiveFileName": "0.0.1.tar.gz",
+          "checksum": "MD5:b12ab87a9cce11f61ad22c2f291d5ed7",
+          "size": "15046882",
           "boards": [
             {
               "name": "ARDSTM32L432KC"

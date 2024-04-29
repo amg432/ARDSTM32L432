@@ -5,7 +5,7 @@ menu.opt=Optimize
 
 ##############################################################
 
-# TURN@JW
+# IoT Boards
 # ---------------------------------------
 ARDSTM32L432KC.name=ARDSTM32L432KC
 ARDSTM32L432KC.vid.0=0x1209

@@ -26,8 +26,8 @@
  * WITH THE SOFTWARE.
  */
 
-#ifndef _VARIANT_LADYBUG_STM32L432KC_
-#define _VARIANT_LADYBUG_STM32L432KC_
+#ifndef _VARIANT_ARDSTM32L432KC_
+#define _VARIANT_ARDSTM32L432KC_
 
 // The definitions here needs a STM32L4 core >=1.6.6
 #define ARDUINO_STM32L4_VARIANT_COMPLIANCE 10606
@@ -208,5 +208,5 @@ extern Uart Serial2;
 // Alias SerialUSB to Serial
 #define SerialUSB SERIAL_PORT_USBVIRTUAL
 
-#endif /* _VARIANT_LADYBUG_STM32L432KC_ */
+#endif /* _VARIANT_ARDSTM32L432KC_ */
 
