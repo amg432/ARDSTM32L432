@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "ARDSTM32L432",
-      "maintainer": "TURN@JW",
+      "maintainer": "IOT",
       "websiteURL": "https://github.com/amg432/ARDSTM32L432",
       "email": "amg432@gmail.com",
       "help": {
